@@ -46,4 +46,6 @@ const player6 = {
   pontos: 0,
 };
 
-
+async function  rollDice() {
+  return  Math.floor(Math.random()*6 + 1)
+}
