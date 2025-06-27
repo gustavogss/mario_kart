@@ -46,9 +46,4 @@ const player6 = {
   pontos: 0,
 };
 
-if(player1.velocidade > player2.velocidade) 
-  return console.log(`A velocidade do ${player1.nome} é maior que a velocidade do ${player2.nome}`);
-if(player1.velocidade < player2.velocidade) 
-  return console.log(`A velocidade do ${player1.nome} é menor que a velocidade do ${player2.nome}`);
-return console.log(`A velocidade do ${player1.nome} é a mesma da velocidade do ${player2.nome}`);
 
