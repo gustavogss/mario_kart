@@ -51,5 +51,7 @@ async function  rollDice() {
 }
 
 (async function main() {
-  console.log("Iniciou Corrida");  
+  console.log(`
+    🚨 🏁 Corrida entre o ${player1.nome} e o ${player5.nome} começando... \n
+    `);  
 })()
