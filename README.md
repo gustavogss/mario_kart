@@ -4,5 +4,3 @@
 ## Stacks
 - Nodejs
 - Git Flow (Gerenciamento de Branches)
-
-## Deploy
